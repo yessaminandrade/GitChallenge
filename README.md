@@ -1,2 +1,2 @@
 # GitChallenge
-First Sprint challenge
+GitHub and Digital Repository Management
